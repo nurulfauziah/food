@@ -26,3 +26,5 @@ List<dynamic> dataFood = [
     "image": "assets/images/food.png"
   },
 ];
+
+List menu = [];
