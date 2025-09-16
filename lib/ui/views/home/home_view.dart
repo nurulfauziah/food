@@ -244,6 +244,10 @@ class HomeView extends StackedView<HomeViewModel> {
                           ),
                         ),
                       ),
+                      Center(child: Text("Drinks")), // Drinks
+                      Center(child: Text("Snacks")), // Snacks
+                      Center(child: Text("Sauce")), // Sauce
+                      Center(child: Text("Yogurt")), // Yogurt
                     ]),
                   )
                 ],
